@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 100;
+  padding: 100;
+  display: flex; 
+}
+
+
+
+
+
+
